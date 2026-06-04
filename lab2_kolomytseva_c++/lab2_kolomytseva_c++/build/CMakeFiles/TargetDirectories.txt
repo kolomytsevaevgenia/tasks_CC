@@ -1,0 +1,3 @@
+C:/Users/kolom/OneDrive/Рабочий стол/tasks_CC/lab2_kolomytseva_c++/build/CMakeFiles/robot_sim.dir
+C:/Users/kolom/OneDrive/Рабочий стол/tasks_CC/lab2_kolomytseva_c++/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/kolom/OneDrive/Рабочий стол/tasks_CC/lab2_kolomytseva_c++/build/CMakeFiles/ZERO_CHECK.dir

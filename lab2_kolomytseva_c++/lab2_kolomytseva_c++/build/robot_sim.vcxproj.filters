@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\kolom\OneDrive\Рабочий стол\tasks_CC\lab2_kolomytseva_c++\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kolom\OneDrive\Рабочий стол\tasks_CC\lab2_kolomytseva_c++\Robot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kolom\OneDrive\Рабочий стол\tasks_CC\lab2_kolomytseva_c++\WheeledRobot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kolom\OneDrive\Рабочий стол\tasks_CC\lab2_kolomytseva_c++\LeggedRobot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kolom\OneDrive\Рабочий стол\tasks_CC\lab2_kolomytseva_c++\Location.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kolom\OneDrive\Рабочий стол\tasks_CC\lab2_kolomytseva_c++\Strategies.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kolom\OneDrive\Рабочий стол\tasks_CC\lab2_kolomytseva_c++\World.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kolom\OneDrive\Рабочий стол\tasks_CC\lab2_kolomytseva_c++\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3B23F054-C467-38DA-9753-5E6CCE3ADA8A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
